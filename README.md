@@ -7,3 +7,6 @@ info about our mission statement, philosophy, philanthropy and things that u can
 
 12/04/16 - We are releasing a press release and informing Google inc. that we are developing tools to help them patch security issues as fast as possible. Currently to this date, we have made 0 contribution to any of the angular2 projects. There's a very good chance that we never will. T.G.M. tests all software in a LAN. We will never use this on the general public internet. It is not our intention to disrupt, scare or interfere with anyone on the internet. However, all of these tools are FREE as in WEED. So, If you think you can do it without getting caught, please proceed. at some point we will have a logging web app, that tracks results in the wild. thank you for reading this and staying up to date. all for now. have a nice night.
 
+12/05/16  - Still working on the press release and email to Google Inc.
+          - It looks like secure coms will be open this coming weekend. Please come back on your day off and help us test the ______.
+
